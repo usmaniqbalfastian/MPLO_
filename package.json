@@ -1,0 +1,21 @@
+{
+  "name": "MPLO",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@mysql/xdevapi": "^8.0.13",
+    "config": "^2.0.1",
+    "db-migrate-mysql": "^1.1.10",
+    "express": "^4.16.4",
+    "jsonwebtoken": "^8.3.0",
+    "mysql": "^2.16.0",
+    "winston": "^3.1.0"
+  }
+}
